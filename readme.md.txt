@@ -2,8 +2,8 @@
 
  ## langauges used
 
-##features
+## features
 
 
-#how to run the code locally :
+# how to run the code locally :
  -
